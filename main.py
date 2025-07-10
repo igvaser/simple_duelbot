@@ -14,6 +14,7 @@ import random
 
 # === ТВОЙ ТОКЕН и WebApp URL ===
 import os
+
 TOKEN = os.getenv("BOT_TOKEN")
 
 WEBAPP_URL = "https://telegram-fireduel.vercel.app"
